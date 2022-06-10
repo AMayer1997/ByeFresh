@@ -1,0 +1,13 @@
+html {
+  background-color: #126537;
+  width: 100px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+}
